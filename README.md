@@ -124,7 +124,7 @@
 ---
 
 ## 📁 프로젝트 구조  
-
+ ```
 genico-inventory-analysis/
 │
 ├─ data/
@@ -132,6 +132,7 @@ genico-inventory-analysis/
 ├─ src/
 ├─ images/
 └─ README.md
+```
 
 ---
 
