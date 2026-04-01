@@ -129,7 +129,6 @@ genico-inventory-analysis/
 │
 ├─ data/
 ├─ notebooks/
-├─ src/
 ├─ images/
 └─ README.md
 ```
